@@ -1,0 +1,5 @@
+"diagnosis","lipid","n_total","n_measured","n_missing","median","iqr"
+"Normal","1-deoxyCer(34:0)",31,31,0,0.0731,0.0558
+"Steatosis","1-deoxyCer(34:0)",17,17,0,0.0833,0.0821
+"NASH","1-deoxyCer(34:0)",20,20,0,0.0713,0.036075
+"Cirrhosis","1-deoxyCer(34:0)",20,20,0,0.0821,0.040025
